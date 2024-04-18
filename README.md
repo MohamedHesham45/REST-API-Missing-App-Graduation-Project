@@ -1,4 +1,4 @@
-<h1 align="center" display="inline" >Searching for missing persons and things (Massing APP)<br>Graduation Project  </h1>
+<h1 align="center" display="inline" >Searching for missing persons and things (Missing APP)<br>Graduation Project  </h1>
 <h3 align="left">Technology Used:</h3>
 <div align="left">
  
